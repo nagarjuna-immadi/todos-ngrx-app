@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "todos-ngrx-app"
+    }
+  },
+  "defaultProject": "todos-ngrx-app",
+  "cli": {
+    "analytics": false
+  }
 }
